@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 - :paperclip: React-three-fiber ... [tin.blue](http://tin.blue)  
   
 ### :pushpin: Old Projects :
+- ✨ Py, Grafana, Prometheus, Loki ... [K8s Loki Sidecart Reporter](https://github.com/Dew-bench/prometheus-loki-sidecar-reporter)
 - :lobster: Three.js ... [3DOF](http://3dof.tin.blue)
 - :fire: Vue ... [Tiamat](http://tiamat.tin.blue)
